@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="titulo_from">Contador</string>
+    <string name="contar">Contar</string>
+    <string name="conteo">0</string>
+    <string name="Limpiar">Resetear</string>
+    <string name="txtBoton">Aumentar</string>
+    <string name="restablecer">Restablecer</string>
+</resources>
